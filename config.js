@@ -1,5 +1,4 @@
 module.exports = {
-  MONGODB:
-    'mongodb+srv://Sule-sule:peter12@cluster0-ismjc.mongodb.net/test?retryWrites=true&w=majority',
+  MONGODB: 'Mongodb_url',
   SECRET_KEY: 'some very secret key'
 };
